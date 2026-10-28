@@ -1,39 +1,37 @@
 # Hey, I'm Saptarshi 👋
 
-### [YOUR ROLE OR DEVELOPER TAGLINE]
+### Aspiring Software Developer | Python • AI • Developer Tools
 
-I build practical software and enjoy exploring how AI can make everyday tools more useful.
+I enjoy turning ideas into practical projects—from beginner Python games to AI assistants and tools that make development workflows smoother. I'm currently growing my skills in Python, AI, and building useful software end to end.
 
 [![GitHub followers](https://img.shields.io/github/followers/saptarshigangulys121?label=Follow&style=social)](https://github.com/saptarshigangulys121)
-[![Profile views](https://komarev.com/ghpvc/?username=saptarshigangulys121&style=flat&color=blue)](https://github.com/saptarshigangulys121)
 
-## About me
+## What I'm working toward
 
-- 🔭 Building: **[WHAT YOU'RE WORKING ON]**
-- 🌱 Learning: **[WHAT YOU'RE LEARNING]**
-- 💬 Ask me about: **[YOUR TOPICS OR SKILLS]**
-- ⚡ Fun fact: **[A SHORT PERSONAL FUN FACT]**
+I want to become a well-rounded software engineer: strengthen my programming fundamentals, learn more about AI and full-stack development, and build reliable applications that solve real problems. I'm learning by making projects, improving them, and taking on bigger ideas over time.
 
-## Featured project
+## Projects I've built
 
-### [Auto-AI-Chat-Assistant](https://github.com/saptarshigangulys121/Auto-AI-Chat-Assistant)
+- 🤖 [**JARVIS Voice Assistant**](https://github.com/saptarshigangulys121/JARVIS--VOICE--ASSISTANT) — A Windows voice assistant with speech input/output, desktop and web commands, news, and local AI through Ollama.
+- 💬 [**Auto-AI-Chat-Assistant**](https://github.com/saptarshigangulys121/Auto-AI-Chat-Assistant) — A terminal chatbot that generates replies with Google's Gemini API.
+- 🧩 [**OmniDoc**](https://github.com/saptarshigangulys121/OmniDoc) — A developer documentation and code-snippet workspace with language detection and highlighted TODO/NOTE markers.
+- 🎲 [**Python Number Guessing Game**](https://github.com/saptarshigangulys121/python-number-guessing-game) — A terminal guessing game with a persistent high score.
+- 🎯 [**Number Guessing Game**](https://github.com/saptarshigangulys121/Number-guessing-game) — An interactive guessing game with input validation, higher/lower hints, and attempt tracking.
+- 🐍 [**Snake-Water-Gun Game**](https://github.com/saptarshigangulys121/Snake-Water-Gun-Game) — My first Python game, built during my first year of B.Tech.
 
-A lightweight terminal chatbot that uses Google's Gemini API to generate replies.
-
-## Tech
+## Tools and technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Also exploring:** [ADD LANGUAGES, FRAMEWORKS, AND TOOLS YOU USE]
+## A little more
 
-## Find me around the web
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.example)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+- 🌱 Learning: Python, AI/LLM integrations, and how to design and ship better applications.
+- 🔭 Interested in: AI assistants, automation, developer tools, and practical software projects.
+- ⚡ Fun fact: My first Python game was Snake-Water-Gun, built in my first year of B.Tech.
 
 ---
 
-*Thanks for stopping by — feel free to explore my repositories and say hello!*
+*Thanks for visiting! Feel free to explore my repositories and follow along as I keep building.*
