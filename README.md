@@ -6,6 +6,10 @@ I enjoy turning ideas into practical projects—from beginner Python games to AI
 
 [![GitHub followers](https://img.shields.io/github/followers/saptarshigangulys121?label=Follow&style=social)](https://github.com/saptarshigangulys121)
 
+## 🔥 GitHub streak
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=saptarshigangulys121&theme=tokyonight&hide_border=true)
+
 ## What I'm working toward
 
 I want to become a well-rounded software engineer: strengthen my programming fundamentals, learn more about AI and full-stack development, and build reliable applications that solve real problems. I'm learning by making projects, improving them, and taking on bigger ideas over time.
